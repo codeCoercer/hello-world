@@ -1,3 +1,1 @@
-Hello, world!
-This is a Git tutorial.
-I'm tired and I just want a programmer job already...
+hello world
